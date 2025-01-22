@@ -1,4 +1,5 @@
 ﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+using static EvaluationSampleCode.Reservation;
 
 namespace EvaluationSampleCode.UnitTests
 {
